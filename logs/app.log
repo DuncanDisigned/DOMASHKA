@@ -1,0 +1,1217 @@
+19:34:50.132 [main] INFO  FormFillingTest - Открываем страницу с формой
+19:34:50.239 [main] INFO  FormFillingTest - Страница с формой открыта
+19:34:50.255 [main] INFO  FormFillingTest - Получаем локаторы полей
+19:34:50.272 [main] INFO  FormFillingTest - Генерируем имя пользователя и вставляем
+19:34:50.412 [main] INFO  FormFillingTest - Вставляем эл.почту из пропертис
+19:34:50.453 [main] INFO  FormFillingTest - Вставляем пароль из пропертис
+19:34:50.488 [main] INFO  FormFillingTest - Повторно вставляем пароль из пропертис
+19:34:50.521 [main] INFO  FormFillingTest - Генерируем и вставляем дату рождения
+19:34:50.553 [main] INFO  FormFillingTest - Выбираем уровень языка из списка
+19:34:50.610 [main] INFO  FormFillingTest - Нажимаем кнопку 'Зарегистрироваться' 
+19:35:31.256 [main] INFO  FormFillingTest - Открываем страницу с формой
+19:35:31.325 [main] INFO  FormFillingTest - Страница с формой открыта
+19:35:31.342 [main] INFO  FormFillingTest - Получаем локаторы полей
+19:35:31.358 [main] INFO  FormFillingTest - Генерируем имя пользователя и вставляем
+19:35:31.491 [main] INFO  FormFillingTest - Вставляем эл.почту из пропертис
+19:35:31.532 [main] INFO  FormFillingTest - Вставляем пароль из пропертис
+19:35:31.565 [main] INFO  FormFillingTest - Повторно вставляем пароль из пропертис
+19:35:31.596 [main] INFO  FormFillingTest - Генерируем и вставляем дату рождения
+19:35:31.625 [main] INFO  FormFillingTest - Выбираем уровень языка из списка
+19:35:31.679 [main] INFO  FormFillingTest - Нажимаем кнопку 'Зарегистрироваться' 
+19:37:21.030 [main] INFO  FormFillingTest - Открываем страницу с формой
+19:37:21.454 [main] INFO  FormFillingTest - Страница с формой открыта
+19:37:21.468 [main] INFO  FormFillingTest - Получаем локаторы полей
+19:37:21.484 [main] INFO  FormFillingTest - Генерируем имя пользователя и вставляем
+19:37:21.614 [main] INFO  FormFillingTest - Вставляем эл.почту из пропертис
+19:37:21.655 [main] INFO  FormFillingTest - Вставляем пароль из пропертис
+19:37:21.689 [main] INFO  FormFillingTest - Повторно вставляем пароль из пропертис
+19:37:21.725 [main] INFO  FormFillingTest - Генерируем и вставляем дату рождения
+19:37:21.754 [main] INFO  FormFillingTest - Выбираем уровень языка из списка
+19:37:21.810 [main] INFO  FormFillingTest - Нажимаем кнопку 'Зарегистрироваться' 
+20:35:48.722 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: antone.corwin
+20:35:48.785 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+20:35:48.827 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+20:35:48.860 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+20:35:48.892 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+20:35:48.921 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 27-08-1978
+20:35:48.976 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+20:35:49.028 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:35:49.057 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: antone.corwin
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1978-08-27
+Уровень языка: beginner
+20:35:49.060 [main] INFO  FormFillingTest - Проверка имени пользователя завершена.
+20:35:49.060 [main] INFO  FormFillingTest - Проверка электронной почты завершена.
+20:38:02.295 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: launa.rau
+20:38:02.357 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+20:38:02.396 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+20:38:02.430 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+20:38:02.464 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+20:38:02.495 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 17-09-1985
+20:38:02.550 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+20:42:11.796 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: clair.barton
+20:42:11.798 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 23-08-2005
+20:42:11.867 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+20:42:11.908 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+20:42:11.940 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+20:42:11.972 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+20:42:12.000 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 2005-08-23
+20:42:12.053 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+20:42:12.104 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:42:12.133 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: clair.barton
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 0823-05-20
+Уровень языка: beginner
+20:47:03.653 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: danelle.friesen
+20:47:03.656 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 20-07-1981
+20:47:03.721 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+20:47:03.763 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+20:47:03.796 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+20:47:03.829 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+20:47:03.858 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1981-07-20
+20:47:03.912 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+20:47:03.963 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:47:03.993 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: danelle.friesen
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 10720-08-19
+Уровень языка: beginner
+20:48:48.562 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: vernon.kirlin
+20:48:48.567 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 10-11-1985
+20:48:48.672 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+20:48:48.742 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+20:48:48.797 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+20:48:48.849 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+20:48:48.898 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1985-11-10
+20:48:48.991 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+20:48:49.085 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:48:49.142 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: vernon.kirlin
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 51110-08-19
+Уровень языка: beginner
+20:50:16.259 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: frances.will
+20:50:16.261 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 04-03-1985
+20:50:16.327 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+20:50:16.369 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+20:50:16.402 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+20:50:16.435 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+20:50:16.463 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 04-03-1985
+20:50:16.517 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+20:50:16.569 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:50:16.599 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: frances.will
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 50304-08-19
+Уровень языка: beginner
+20:56:36.193 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: nicholas.kuhic
+20:56:36.196 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 07-06-1960
+20:56:36.262 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+20:56:36.304 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+20:56:36.337 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+20:56:36.369 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+20:56:36.398 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 07-06-1960
+20:56:36.460 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+20:56:36.512 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:56:36.540 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: nicholas.kuhic
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 0607-06-19
+Уровень языка: beginner
+20:58:44.229 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: lemuel.lehner
+20:58:44.231 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 28-10-1997
+20:58:44.292 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+20:58:44.332 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+20:58:44.366 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+20:58:44.398 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+20:58:44.426 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 28-10-1997
+20:58:44.481 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+20:58:44.532 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:58:44.562 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: lemuel.lehner
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 71028-09-19
+Уровень языка: beginner
+21:00:23.121 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: deidre.greenholt
+21:00:23.125 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 22-03-1979
+21:00:23.189 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:00:23.225 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:00:23.259 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:00:23.290 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:00:23.320 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 22-03-1979
+21:00:23.376 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:00:23.434 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:00:23.464 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: deidre.greenholt
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 90322-07-19
+Уровень языка: beginner
+21:00:47.639 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: shantell.veum
+21:00:47.642 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 18-10-1997
+21:00:47.713 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:00:47.755 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:00:47.790 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:00:47.825 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:00:47.855 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 18-10-1997
+21:00:47.915 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:00:47.978 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:00:48.010 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: shantell.veum
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 71018-09-19
+Уровень языка: beginner
+21:01:54.504 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: robt.kihn
+21:01:54.506 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 13-01-2000
+21:01:54.572 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:01:54.617 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:01:54.651 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:01:54.684 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:01:54.713 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 13-01-2000
+21:01:54.769 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:01:54.824 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:01:54.855 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: robt.kihn
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 0113-01-20
+Уровень языка: beginner
+21:05:09.143 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: cherryl.zemlak
+21:05:09.146 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 09-03-1984
+21:05:09.210 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:05:09.250 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:05:09.285 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:05:09.317 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:05:09.346 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 09-03-1984
+21:05:09.402 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:05:09.453 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:05:09.483 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: cherryl.zemlak
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 40309-08-19
+Уровень языка: beginner
+21:05:54.537 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: cruz.klein
+21:05:54.539 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 15-09-1967
+21:05:54.604 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:05:54.644 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:05:54.676 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:05:54.709 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:05:54.736 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 15-09-1967
+21:05:54.789 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:05:54.841 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:05:54.869 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: cruz.klein
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1967-09-15
+Уровень языка: beginner
+21:06:17.542 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: lissette.hartmann
+21:06:17.545 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 15-07-1970
+21:06:17.616 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:06:17.658 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:06:17.691 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:06:17.725 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:06:27.531 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 15-07-1970
+21:07:05.137 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:07:27.793 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:07:49.837 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: lissette.hartmann
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1970-07-15
+Уровень языка: beginner
+21:10:10.540 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: omega.abernathy
+21:10:10.543 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 31-05-1991
+21:10:10.607 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:10:10.648 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:10:10.681 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:10:10.713 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:10:10.742 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 31-05-1991
+21:10:10.795 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:10:10.846 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:10:10.877 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: omega.abernathy
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1991-05-31
+Уровень языка: beginner
+21:10:37.523 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: willian.wisoky
+21:10:37.525 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 23-07-1979
+21:10:37.591 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:10:37.629 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:10:37.661 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:10:37.693 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:10:37.722 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 23-07-1979
+21:10:37.775 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:10:37.825 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:10:37.854 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: willian.wisoky
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 90723-07-19
+Уровень языка: beginner
+21:16:46.925 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: louie.huel
+21:16:46.928 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 02-06-1999
+21:16:46.996 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:16:47.036 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:16:47.069 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:16:47.105 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:16:47.134 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 02-06-1999
+21:16:47.195 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:16:47.247 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:16:48.286 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: louie.huel
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1999-06-02
+Уровень языка: beginner
+21:17:20.827 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: veronica.jerde
+21:17:20.829 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1974-04-06
+21:17:20.899 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:17:20.942 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:17:20.973 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:17:21.006 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:17:21.035 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1974-04-06
+21:17:21.090 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:17:21.141 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:17:22.174 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: veronica.jerde
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1974-04-06
+Уровень языка: beginner
+21:21:06.026 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: dedra.strosin
+21:21:06.029 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1991-08-28
+21:21:06.094 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:21:06.133 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:21:06.166 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:21:06.197 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:21:06.226 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1991-08-28
+21:21:06.279 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:21:06.333 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:21:07.367 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: dedra.strosin
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1991-08-28
+Уровень языка: beginner
+21:22:35.447 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: francie.sanford
+21:22:35.450 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1962-01-30
+21:22:35.516 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:22:35.558 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:22:35.591 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:22:35.622 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:22:35.650 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1962-01-30
+21:22:35.705 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:22:35.758 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:22:36.804 [main] INFO  FormFillingTest - Получен текст результата: Имя пользователя: francie.sanford
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1962-01-30
+Уровень языка: beginner
+21:24:56.487 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: jonathon.kuhn
+21:24:56.490 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1962-08-01
+21:24:56.558 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:24:56.600 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:24:56.634 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:24:56.665 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:24:56.694 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1962-08-01
+21:24:56.749 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:24:56.805 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:24:57.852 [main] INFO  FormFillingTest - Получен текст результата:
+ Имя пользователя: jonathon.kuhn
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1962-08-01
+Уровень языка: beginner
+21:25:34.708 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: sherman.hand
+21:25:34.711 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 2002-05-15
+21:25:34.778 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:25:34.819 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:25:34.852 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:25:34.886 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:25:34.914 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 2002-05-15
+21:25:34.968 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:25:35.020 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:25:35.564 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: sherman.hand
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 2002-05-15
+Уровень языка: beginner
+21:25:46.586 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: kasha.doyle
+21:25:46.589 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1974-09-30
+21:25:46.651 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:25:46.690 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:25:46.723 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:25:46.756 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:25:46.785 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1974-09-30
+21:25:46.841 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:25:46.896 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:25:47.132 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: kasha.doyle
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1974-09-30
+Уровень языка: beginner
+21:25:56.425 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: illa.wuckert
+21:25:56.428 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1979-07-14
+21:25:56.495 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:25:56.539 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:25:56.573 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:25:56.606 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:25:56.637 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1979-07-14
+21:25:56.694 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:25:56.746 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:25:56.892 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: illa.wuckert
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1979-07-14
+Уровень языка: beginner
+21:26:05.946 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: karyl.damore
+21:26:05.949 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1981-02-14
+21:26:06.015 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:26:06.061 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:26:06.093 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:26:06.126 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:26:06.154 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1981-02-14
+21:26:06.210 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:26:06.262 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:26:06.359 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: karyl.damore
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1981-02-14
+Уровень языка: beginner
+21:26:15.196 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: antione.okeefe
+21:26:15.199 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1991-04-16
+21:26:15.262 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:26:15.302 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:26:15.334 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:26:15.367 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:26:15.395 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1991-04-16
+21:26:15.451 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:26:15.503 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:26:15.557 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: antione.okeefe
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1991-04-16
+Уровень языка: beginner
+21:26:24.525 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: flavia.runte
+21:26:24.528 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1996-10-14
+21:26:24.596 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:26:24.637 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:26:24.669 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:26:24.703 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:26:24.732 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1996-10-14
+21:26:24.786 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:26:24.839 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:26:24.868 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: flavia.runte
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1996-10-14
+Уровень языка: beginner
+21:26:32.971 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: gerry.kautzer
+21:26:32.974 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1998-11-17
+21:26:33.038 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:26:33.078 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:26:33.112 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:26:33.145 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:26:33.174 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1998-11-17
+21:26:33.229 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:26:33.281 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:26:33.310 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: gerry.kautzer
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1998-11-17
+Уровень языка: beginner
+21:26:41.506 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: margarett.bruen
+21:26:41.509 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1979-05-23
+21:26:41.578 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:26:41.617 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:26:41.651 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:26:41.685 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:26:41.716 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1979-05-23
+21:26:41.770 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:26:41.823 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:26:41.853 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: margarett.bruen
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1979-05-23
+Уровень языка: beginner
+21:27:18.247 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: javier.heaney
+21:27:18.250 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 2003-11-13
+21:27:18.319 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:27:18.362 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:27:18.396 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:27:18.428 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:27:18.457 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 2003-11-13
+21:27:18.511 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:27:18.563 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:27:18.592 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: javier.heaney
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 2003-11-13
+Уровень языка: beginner
+21:27:49.155 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: lawrence.runolfsdottir
+21:27:49.158 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1986-09-12
+21:27:49.230 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:27:49.271 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:27:49.303 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:27:49.334 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:27:49.363 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1986-09-12
+21:27:49.418 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:27:49.471 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:27:49.499 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: lawrence.runolfsdottir
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1986-09-12
+Уровень языка: beginner
+21:29:37.253 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: andre.stehr
+21:29:37.256 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1989-02-08
+21:29:37.323 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:29:37.365 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:29:37.398 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:29:37.430 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:29:37.459 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1989-02-08
+21:29:37.516 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:29:37.571 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:29:37.603 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: andre.stehr
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1989-02-08
+Уровень языка: beginner
+21:30:24.926 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: reid.bosco
+21:30:24.929 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1971-05-03
+21:30:24.995 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:30:25.038 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:30:25.071 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:30:25.102 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:30:25.131 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1971-05-03
+21:30:25.185 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:30:25.237 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:30:25.266 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: reid.bosco
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1971-05-03
+Уровень языка: beginner
+21:36:37.005 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: clay.skiles
+21:36:37.008 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 2004-04-01
+21:36:37.071 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+21:36:37.110 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+21:36:37.144 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+21:36:37.177 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+21:36:37.205 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 2004-04-01
+21:36:37.260 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+21:36:37.313 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:36:37.343 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: clay.skiles
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 2004-04-01
+Уровень языка: beginner
+12:27:19.157 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: denny.schinner
+12:27:19.165 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1980-10-17
+12:27:19.228 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+12:27:19.267 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+12:27:19.301 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+12:27:19.334 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+12:27:19.362 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1980-10-17
+12:27:19.417 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+12:27:19.469 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+12:27:19.499 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: denny.schinner
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1980-10-17
+Уровень языка: beginner
+12:47:32.559 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: anisa.hermiston
+12:47:32.565 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 2000-02-08
+12:47:32.631 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+12:47:32.671 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+12:47:32.704 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+12:47:32.739 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+12:47:32.769 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 2000-02-08
+12:47:32.822 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+12:47:32.874 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+12:47:32.904 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: anisa.hermiston
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 2000-02-08
+Уровень языка: beginner
+12:53:45.713 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: earnest.osinski
+12:53:45.720 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1985-06-14
+12:53:45.783 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+12:53:45.825 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+12:53:45.857 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+12:53:45.890 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+12:53:45.918 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1985-06-14
+12:53:45.970 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+12:53:46.027 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+12:53:46.059 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: earnest.osinski
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1985-06-14
+Уровень языка: beginner
+12:57:00.807 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: gary.bogisich
+12:57:00.813 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1990-12-25
+12:57:00.874 [main] INFO  FormFillingTest - Поле 'Имя пользователя' заполнено.
+12:57:00.915 [main] INFO  FormFillingTest - Поле 'Электронная почта' заполнено.
+12:57:00.947 [main] INFO  FormFillingTest - Поле 'Пароль' заполнено.
+12:57:00.978 [main] INFO  FormFillingTest - Поле 'Подтверждение пароля' заполнено.
+12:57:01.007 [main] INFO  FormFillingTest - Поле 'Дата рождения' заполнено значением: 1990-12-25
+12:57:01.059 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+12:57:01.114 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+12:57:01.144 [main] INFO  FormFillingTest - Получен текст результата:
+Имя пользователя: gary.bogisich
+Электронная почта: duncandeaigned@yandex.ru
+Дата рождения: 1990-12-25
+Уровень языка: beginner
+16:08:58.744 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: jenae.turner
+16:08:58.751 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 2005-10-05
+16:10:23.850 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: keenan.green
+16:10:23.857 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1960-02-25
+16:11:06.524 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: bernard.koss
+16:11:06.531 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1994-12-12
+16:12:09.260 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: burt.rice
+16:12:09.266 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 2003-01-14
+17:27:06.657 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: gricelda.hettinger
+17:27:06.665 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1993-10-23
+17:27:42.341 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: lieselotte.bauch
+17:27:42.348 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1992-07-31
+17:37:24.448 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: ralph.gleichner
+17:37:24.455 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 2004-06-08
+17:37:30.288 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: marilynn.wisozk
+17:37:30.297 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1985-05-06
+17:37:43.644 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: horacio.abbott
+17:37:43.652 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 1967-02-16
+17:56:33.788 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: brinda.herman
+17:56:33.798 [main] INFO  FormFillingTest - Сгенерированный email: renna.jenkins@hotmail.com
+17:56:33.798 [main] INFO  FormFillingTest - Сгенерированный пароль: 1kld9z7t6
+17:56:33.799 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 2000-11-29
+17:56:33.874 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: brinda.herman
+17:56:33.931 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: renna.jenkins@hotmail.com
+17:56:33.980 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 1kld9z7t6
+17:56:34.028 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 1kld9z7t6
+17:56:34.074 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 29-11-2000
+17:56:34.130 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+17:56:34.182 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+17:59:26.225 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: kemberly.greenfelder
+17:59:26.234 [main] INFO  FormFillingTest - Сгенерированный email: vivian.green@gmail.com
+17:59:26.235 [main] INFO  FormFillingTest - Сгенерированный пароль: g0twq700z8s
+17:59:26.235 [main] INFO  FormFillingTest - Сгенерированная дата рождения для заполнения: 06-06-1967
+17:59:26.312 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: kemberly.greenfelder
+17:59:26.368 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: vivian.green@gmail.com
+17:59:26.418 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: g0twq700z8s
+17:59:26.466 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: g0twq700z8s
+17:59:26.512 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 06-06-1967
+17:59:26.567 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+17:59:26.620 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+18:07:18.528 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: constance.johnson
+18:07:18.538 [main] INFO  FormFillingTest - Сгенерированный email: jarrod.spencer@gmail.com
+18:07:18.538 [main] INFO  FormFillingTest - Сгенерированный пароль: 0jx355ksksn7lql
+18:07:18.614 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: constance.johnson
+18:07:18.668 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: jarrod.spencer@gmail.com
+18:07:18.717 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 0jx355ksksn7lql
+18:07:18.771 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 0jx355ksksn7lql
+18:07:18.818 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 12-02-1997
+18:07:18.835 [main] INFO  FormFillingTest - Поле 'username' содержит ожидаемое значение: constance.johnson
+18:07:18.845 [main] INFO  FormFillingTest - Поле 'email' содержит ожидаемое значение: jarrod.spencer@gmail.com
+18:07:18.854 [main] INFO  FormFillingTest - Поле 'password' содержит ожидаемое значение: 0jx355ksksn7lql
+18:07:18.863 [main] INFO  FormFillingTest - Поле 'confirm_password' содержит ожидаемое значение: 0jx355ksksn7lql
+18:11:06.074 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: cody.damore
+18:11:06.082 [main] INFO  FormFillingTest - Сгенерированный email: millard.weber@yahoo.com
+18:11:06.082 [main] INFO  FormFillingTest - Сгенерированный пароль: 78meh5wu4l21j
+18:11:06.168 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: cody.damore
+18:11:06.224 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: millard.weber@yahoo.com
+18:11:06.275 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 78meh5wu4l21j
+18:11:06.328 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 78meh5wu4l21j
+18:11:06.375 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 06-02-1989
+18:11:06.392 [main] INFO  FormFillingTest - Поле 'username' содержит ожидаемое значение: cody.damore
+18:11:06.403 [main] INFO  FormFillingTest - Поле 'email' содержит ожидаемое значение: millard.weber@yahoo.com
+18:11:06.412 [main] INFO  FormFillingTest - Поле 'password' содержит ожидаемое значение: 78meh5wu4l21j
+18:11:06.421 [main] INFO  FormFillingTest - Поле 'confirm_password' содержит ожидаемое значение: 78meh5wu4l21j
+18:12:23.493 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: maybelle.reilly
+18:12:23.500 [main] INFO  FormFillingTest - Сгенерированный email: kit.hagenes@gmail.com
+18:12:23.500 [main] INFO  FormFillingTest - Сгенерированный пароль: k9kw32xsfg43z6
+18:12:23.588 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: maybelle.reilly
+18:12:23.645 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: kit.hagenes@gmail.com
+18:12:23.696 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: k9kw32xsfg43z6
+18:12:23.748 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: k9kw32xsfg43z6
+18:12:23.795 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1970-04-02
+18:12:23.810 [main] INFO  FormFillingTest - Поле 'username' содержит ожидаемое значение: maybelle.reilly
+18:12:23.821 [main] INFO  FormFillingTest - Поле 'email' содержит ожидаемое значение: kit.hagenes@gmail.com
+18:12:23.830 [main] INFO  FormFillingTest - Поле 'password' содержит ожидаемое значение: k9kw32xsfg43z6
+18:12:23.839 [main] INFO  FormFillingTest - Поле 'confirm_password' содержит ожидаемое значение: k9kw32xsfg43z6
+18:12:51.825 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: crista.volkman
+18:12:51.834 [main] INFO  FormFillingTest - Сгенерированный email: alethea.huel@hotmail.com
+18:12:51.835 [main] INFO  FormFillingTest - Сгенерированный пароль: xa48f1tw1lipio
+18:12:51.916 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: crista.volkman
+18:12:51.975 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: alethea.huel@hotmail.com
+18:12:52.027 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: xa48f1tw1lipio
+18:12:52.080 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: xa48f1tw1lipio
+18:12:52.127 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 09-12-1964
+18:12:52.144 [main] INFO  FormFillingTest - Поле 'username' содержит ожидаемое значение: crista.volkman
+18:12:52.154 [main] INFO  FormFillingTest - Поле 'email' содержит ожидаемое значение: alethea.huel@hotmail.com
+18:12:52.163 [main] INFO  FormFillingTest - Поле 'password' содержит ожидаемое значение: xa48f1tw1lipio
+18:12:52.172 [main] INFO  FormFillingTest - Поле 'confirm_password' содержит ожидаемое значение: xa48f1tw1lipio
+18:13:00.386 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: doretta.kihn
+18:13:00.394 [main] INFO  FormFillingTest - Сгенерированный email: brice.beahan@yahoo.com
+18:13:00.394 [main] INFO  FormFillingTest - Сгенерированный пароль: u6ciwgrzoe
+18:13:00.467 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: doretta.kihn
+18:13:00.523 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: brice.beahan@yahoo.com
+18:13:00.571 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: u6ciwgrzoe
+18:13:00.620 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: u6ciwgrzoe
+18:13:00.666 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 27-05-1990
+18:13:00.682 [main] INFO  FormFillingTest - Поле 'username' содержит ожидаемое значение: doretta.kihn
+18:13:00.692 [main] INFO  FormFillingTest - Поле 'email' содержит ожидаемое значение: brice.beahan@yahoo.com
+18:13:00.701 [main] INFO  FormFillingTest - Поле 'password' содержит ожидаемое значение: u6ciwgrzoe
+18:13:00.711 [main] INFO  FormFillingTest - Поле 'confirm_password' содержит ожидаемое значение: u6ciwgrzoe
+18:17:51.663 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: bryon.lynch
+18:17:51.672 [main] INFO  FormFillingTest - Сгенерированный email: gayla.west@gmail.com
+18:17:51.673 [main] INFO  FormFillingTest - Сгенерированный пароль: h4zwaeh51kg6re
+18:17:51.752 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: bryon.lynch
+18:17:51.812 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: gayla.west@gmail.com
+18:17:51.865 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: h4zwaeh51kg6re
+18:17:51.920 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: h4zwaeh51kg6re
+18:17:51.967 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 06-12-1973
+18:18:05.595 [main] INFO  FormFillingTest - Поле 'username' содержит ожидаемое значение: bryon.lynch
+18:18:18.051 [main] INFO  FormFillingTest - Поле 'email' содержит ожидаемое значение: gayla.west@gmail.com
+18:18:21.228 [main] INFO  FormFillingTest - Поле 'password' содержит ожидаемое значение: h4zwaeh51kg6re
+18:18:22.528 [main] INFO  FormFillingTest - Поле 'confirm_password' содержит ожидаемое значение: h4zwaeh51kg6re
+18:25:15.011 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: sylvester.wolf
+18:25:15.017 [main] INFO  FormFillingTest - Сгенерированный email: frederick.lang@yahoo.com
+18:25:15.017 [main] INFO  FormFillingTest - Сгенерированный пароль: 9q9iwzlo
+18:25:15.099 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: sylvester.wolf
+18:25:15.157 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: frederick.lang@yahoo.com
+18:25:15.204 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 9q9iwzlo
+18:25:15.252 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 9q9iwzlo
+18:25:15.297 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1989-11-22
+18:25:15.342 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+18:25:15.357 [main] INFO  FormFillingTest - Поле 'username' содержит ожидаемое значение: sylvester.wolf
+18:25:15.367 [main] INFO  FormFillingTest - Поле 'email' содержит ожидаемое значение: frederick.lang@yahoo.com
+18:25:15.377 [main] INFO  FormFillingTest - Поле 'password' содержит ожидаемое значение: 9q9iwzlo
+18:25:15.387 [main] INFO  FormFillingTest - Поле 'confirm_password' содержит ожидаемое значение: 9q9iwzlo
+18:27:18.536 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: reid.morissette
+18:27:18.546 [main] INFO  FormFillingTest - Сгенерированный email: hyo.casper@yahoo.com
+18:27:18.546 [main] INFO  FormFillingTest - Сгенерированный пароль: xrid3hypdf
+18:27:18.625 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: reid.morissette
+18:27:18.684 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: hyo.casper@yahoo.com
+18:27:18.732 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: xrid3hypdf
+18:27:18.780 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: xrid3hypdf
+18:27:18.825 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1961-05-30
+18:27:18.869 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+18:27:18.883 [main] INFO  FormFillingTest - Поле 'username' содержит ожидаемое значение: reid.morissette
+18:27:18.893 [main] INFO  FormFillingTest - Поле 'email' содержит ожидаемое значение: hyo.casper@yahoo.com
+18:27:18.904 [main] INFO  FormFillingTest - Поле 'password' содержит ожидаемое значение: xrid3hypdf
+18:27:18.914 [main] INFO  FormFillingTest - Поле 'confirm_password' содержит ожидаемое значение: xrid3hypdf
+18:27:48.985 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: quintin.stroman
+18:27:48.992 [main] INFO  FormFillingTest - Сгенерированный email: augustine.hodkiewicz@gmail.com
+18:27:48.992 [main] INFO  FormFillingTest - Сгенерированный пароль: 9fap15o9gk1oz2
+18:27:49.071 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: quintin.stroman
+18:27:49.130 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: augustine.hodkiewicz@gmail.com
+18:27:49.180 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 9fap15o9gk1oz2
+18:27:49.231 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 9fap15o9gk1oz2
+18:27:49.277 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 01-08-1991
+18:27:49.320 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+18:27:49.334 [main] INFO  FormFillingTest - Поле 'username' содержит ожидаемое значение: quintin.stroman
+18:27:49.344 [main] INFO  FormFillingTest - Поле 'email' содержит ожидаемое значение: augustine.hodkiewicz@gmail.com
+18:27:49.354 [main] INFO  FormFillingTest - Поле 'password' содержит ожидаемое значение: 9fap15o9gk1oz2
+18:27:49.365 [main] INFO  FormFillingTest - Поле 'confirm_password' содержит ожидаемое значение: 9fap15o9gk1oz2
+18:32:37.339 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: justin.towne
+18:32:37.350 [main] INFO  FormFillingTest - Сгенерированный email: holli.jerde@gmail.com
+18:32:37.350 [main] INFO  FormFillingTest - Сгенерированный пароль: 9ei0mlj99fa6
+18:32:37.429 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: justin.towne
+18:32:37.487 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: holli.jerde@gmail.com
+18:32:37.538 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 9ei0mlj99fa6
+18:32:37.589 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 9ei0mlj99fa6
+18:32:37.635 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1985-07-12
+18:32:37.691 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+18:32:37.725 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+18:33:14.888 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: celeste.ward
+18:33:14.894 [main] INFO  FormFillingTest - Сгенерированный email: cole.hudson@hotmail.com
+18:33:14.894 [main] INFO  FormFillingTest - Сгенерированный пароль: 5xhlutg9vb
+18:33:14.972 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: celeste.ward
+18:33:15.030 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: cole.hudson@hotmail.com
+18:33:15.078 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 5xhlutg9vb
+18:33:15.127 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 5xhlutg9vb
+18:33:15.173 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1989-07-01
+18:33:15.228 [main] INFO  FormFillingTest - Выбран уровень языка: Начальный.
+18:33:15.263 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+18:33:15.276 [main] INFO  FormFillingTest - Поле 'username' содержит ожидаемое значение: celeste.ward
+18:33:15.286 [main] INFO  FormFillingTest - Поле 'email' содержит ожидаемое значение: cole.hudson@hotmail.com
+18:33:15.295 [main] INFO  FormFillingTest - Поле 'password' содержит ожидаемое значение: 5xhlutg9vb
+18:33:15.303 [main] INFO  FormFillingTest - Поле 'confirm_password' содержит ожидаемое значение: 5xhlutg9vb
+18:43:52.700 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: marx.luettgen
+18:43:52.715 [main] INFO  FormFillingTest - Сгенерированный email: carmelita.gibson@yahoo.com
+18:43:52.715 [main] INFO  FormFillingTest - Сгенерированный пароль: cxl6myefivor
+18:43:52.813 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: marx.luettgen
+18:43:52.874 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: carmelita.gibson@yahoo.com
+18:43:52.925 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: cxl6myefivor
+18:43:52.976 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: cxl6myefivor
+18:43:53.022 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1973-07-06
+18:46:14.301 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: shavonne.wunsch
+18:46:14.310 [main] INFO  FormFillingTest - Сгенерированный email: ronny.hudson@gmail.com
+18:46:14.310 [main] INFO  FormFillingTest - Сгенерированный пароль: j507p6ajz98
+18:46:14.388 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: shavonne.wunsch
+18:46:14.444 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: ronny.hudson@gmail.com
+18:46:14.493 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: j507p6ajz98
+18:46:14.541 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: j507p6ajz98
+18:46:14.588 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1994-05-27
+18:48:45.990 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: damion.emmerich
+18:48:45.999 [main] INFO  FormFillingTest - Сгенерированный email: clinton.beahan@yahoo.com
+18:48:45.999 [main] INFO  FormFillingTest - Сгенерированный пароль: y9c62amp6c6
+18:48:46.077 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: damion.emmerich
+18:48:46.136 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: clinton.beahan@yahoo.com
+18:48:46.187 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: y9c62amp6c6
+18:48:46.237 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: y9c62amp6c6
+18:48:46.283 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1975-08-25
+18:50:35.250 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: lincoln.herman
+18:50:35.261 [main] INFO  FormFillingTest - Сгенерированный email: cruz.ernser@hotmail.com
+18:50:35.262 [main] INFO  FormFillingTest - Сгенерированный пароль: zqja1z3m1wyv
+18:50:35.337 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: lincoln.herman
+18:50:35.391 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: cruz.ernser@hotmail.com
+18:50:35.440 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: zqja1z3m1wyv
+18:50:35.489 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: zqja1z3m1wyv
+18:50:35.534 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1998-06-19
+18:50:35.621 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата!
+18:53:23.342 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: ciera.nader
+18:53:23.353 [main] INFO  FormFillingTest - Сгенерированный email: amina.schroeder@yahoo.com
+18:53:23.353 [main] INFO  FormFillingTest - Сгенерированный пароль: 40pabqtjxsr
+18:53:23.432 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: ciera.nader
+18:53:23.489 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: amina.schroeder@yahoo.com
+18:53:23.540 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 40pabqtjxsr
+18:53:23.590 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 40pabqtjxsr
+18:53:23.638 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1999-07-24
+18:53:23.729 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата!
+18:58:50.393 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: elvin.stehr
+18:58:50.401 [main] INFO  FormFillingTest - Сгенерированный email: gerry.stehr@hotmail.com
+18:58:50.401 [main] INFO  FormFillingTest - Сгенерированный пароль: 9q31puy8ruec
+18:58:50.481 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: elvin.stehr
+18:58:50.539 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: gerry.stehr@hotmail.com
+18:58:50.589 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 9q31puy8ruec
+18:58:50.639 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 9q31puy8ruec
+18:58:50.687 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1986-10-12
+18:59:30.575 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: waldo.koelpin
+18:59:30.584 [main] INFO  FormFillingTest - Сгенерированный email: scarlet.pacocha@gmail.com
+18:59:30.585 [main] INFO  FormFillingTest - Сгенерированный пароль: mw71xjnc
+18:59:30.657 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: waldo.koelpin
+18:59:30.714 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: scarlet.pacocha@gmail.com
+18:59:30.761 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: mw71xjnc
+18:59:30.809 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: mw71xjnc
+18:59:30.855 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1982-03-03
+19:11:35.179 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: douglas.prohaska
+19:11:35.186 [main] INFO  FormFillingTest - Сгенерированный email: joe.quitzon@yahoo.com
+19:11:35.186 [main] INFO  FormFillingTest - Сгенерированный пароль: biijgoplxszl
+19:11:35.264 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: douglas.prohaska
+19:11:35.319 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: joe.quitzon@yahoo.com
+19:11:35.369 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: biijgoplxszl
+19:11:35.418 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: biijgoplxszl
+19:11:35.465 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 1993-01-09
+19:12:32.197 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: shirlee.reilly
+19:12:32.207 [main] INFO  FormFillingTest - Сгенерированный email: florencio.zboncak@yahoo.com
+19:12:32.207 [main] INFO  FormFillingTest - Сгенерированный пароль: 9qqs7t94u9c6ik
+19:12:32.284 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: shirlee.reilly
+19:12:32.342 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: florencio.zboncak@yahoo.com
+19:12:32.394 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 9qqs7t94u9c6ik
+19:12:32.446 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 9qqs7t94u9c6ik
+19:12:32.492 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 10-02-2000
+19:14:27.253 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: lucina.braun
+19:14:27.262 [main] INFO  FormFillingTest - Сгенерированный email: rigoberto.smitham@hotmail.com
+19:14:27.263 [main] INFO  FormFillingTest - Сгенерированный пароль: b8pf572rjvx17
+19:14:27.338 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: lucina.braun
+19:14:27.399 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: rigoberto.smitham@hotmail.com
+19:14:27.449 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: b8pf572rjvx17
+19:14:27.499 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: b8pf572rjvx17
+19:14:27.546 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 06-01-1996
+19:15:51.492 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: kiley.windler
+19:15:51.501 [main] INFO  FormFillingTest - Сгенерированный email: gabrielle.green@hotmail.com
+19:15:51.501 [main] INFO  FormFillingTest - Сгенерированный пароль: d0vzf5rzj
+19:15:51.583 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: kiley.windler
+19:15:51.642 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: gabrielle.green@hotmail.com
+19:15:51.692 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: d0vzf5rzj
+19:15:51.740 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: d0vzf5rzj
+19:15:51.786 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 22-08-1971
+19:15:51.892 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: kiley.windler
+Электронная почта: gabrielle.green@hotmail.com
+Дата рождения: 1971-08-22
+Уровень языка: beginner
+19:15:51.892 [main] INFO  FormFillingTest - Найденная строка: Имя пользователя: kiley.windler
+19:15:51.892 [main] INFO  FormFillingTest - Извлеченное значение для Имя пользователя: kiley.windler
+19:15:51.905 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: kiley.windler
+Электронная почта: gabrielle.green@hotmail.com
+Дата рождения: 1971-08-22
+Уровень языка: beginner
+19:15:51.905 [main] INFO  FormFillingTest - Найденная строка: Электронная почта: gabrielle.green@hotmail.com
+19:15:51.905 [main] INFO  FormFillingTest - Извлеченное значение для Электронная почта: gabrielle.green@hotmail.com
+19:15:51.916 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: kiley.windler
+Электронная почта: gabrielle.green@hotmail.com
+Дата рождения: 1971-08-22
+Уровень языка: beginner
+19:15:51.916 [main] INFO  FormFillingTest - Найденная строка: Дата рождения: 1971-08-22
+19:15:51.916 [main] INFO  FormFillingTest - Извлеченное значение для Дата рождения: 1971-08-22
+19:15:51.926 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: kiley.windler
+Электронная почта: gabrielle.green@hotmail.com
+Дата рождения: 1971-08-22
+Уровень языка: beginner
+19:15:51.926 [main] INFO  FormFillingTest - Найденная строка: Уровень языка: beginner
+19:15:51.926 [main] INFO  FormFillingTest - Извлеченное значение для Уровень языка: beginner
+19:19:24.434 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: lane.gorczany
+19:19:24.443 [main] INFO  FormFillingTest - Сгенерированный email: jamie.wilkinson@hotmail.com
+19:19:24.443 [main] INFO  FormFillingTest - Сгенерированный пароль: l7320sg3k
+19:19:24.518 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: lane.gorczany
+19:19:24.574 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: jamie.wilkinson@hotmail.com
+19:19:24.622 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: l7320sg3k
+19:19:24.671 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: l7320sg3k
+19:19:24.718 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 19-05-2001
+19:21:14.417 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: danette.terry
+19:21:14.427 [main] INFO  FormFillingTest - Сгенерированный email: bert.collier@hotmail.com
+19:21:14.427 [main] INFO  FormFillingTest - Сгенерированный пароль: v34uul36
+19:21:14.504 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: danette.terry
+19:21:14.561 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: bert.collier@hotmail.com
+19:21:14.608 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: v34uul36
+19:21:14.655 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: v34uul36
+19:21:14.701 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 28-09-2000
+19:21:14.805 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: danette.terry
+Электронная почта: bert.collier@hotmail.com
+Дата рождения: 2000-09-28
+Уровень языка: beginner
+19:21:14.806 [main] INFO  FormFillingTest - Найденная строка: Имя пользователя: danette.terry
+19:21:14.818 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: danette.terry
+Электронная почта: bert.collier@hotmail.com
+Дата рождения: 2000-09-28
+Уровень языка: beginner
+19:21:14.818 [main] INFO  FormFillingTest - Найденная строка: Электронная почта: bert.collier@hotmail.com
+19:21:14.828 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: danette.terry
+Электронная почта: bert.collier@hotmail.com
+Дата рождения: 2000-09-28
+Уровень языка: beginner
+19:21:14.828 [main] INFO  FormFillingTest - Найденная строка: Дата рождения: 2000-09-28
+19:21:14.838 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: danette.terry
+Электронная почта: bert.collier@hotmail.com
+Дата рождения: 2000-09-28
+Уровень языка: beginner
+19:21:14.838 [main] INFO  FormFillingTest - Найденная строка: Уровень языка: beginner
+19:21:40.646 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: dong.parisian
+19:21:40.656 [main] INFO  FormFillingTest - Сгенерированный email: cristal.senger@gmail.com
+19:21:40.656 [main] INFO  FormFillingTest - Сгенерированный пароль: 57922vof4
+19:21:40.732 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: dong.parisian
+19:21:40.790 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: cristal.senger@gmail.com
+19:21:40.837 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 57922vof4
+19:21:40.885 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 57922vof4
+19:21:40.930 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 01-10-1965
+19:21:41.035 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: dong.parisian
+Электронная почта: cristal.senger@gmail.com
+Дата рождения: 1965-10-01
+Уровень языка: beginner
+19:21:41.049 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: dong.parisian
+Электронная почта: cristal.senger@gmail.com
+Дата рождения: 1965-10-01
+Уровень языка: beginner
+19:21:41.060 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: dong.parisian
+Электронная почта: cristal.senger@gmail.com
+Дата рождения: 1965-10-01
+Уровень языка: beginner
+19:21:41.070 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: dong.parisian
+Электронная почта: cristal.senger@gmail.com
+Дата рождения: 1965-10-01
+Уровень языка: beginner
+19:31:40.355 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: lemuel.skiles
+19:31:40.362 [main] INFO  FormFillingTest - Сгенерированный email: bruno.feest@yahoo.com
+19:31:40.362 [main] INFO  FormFillingTest - Сгенерированный пароль: sva3d8afaomoe
+19:31:40.449 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: lemuel.skiles
+19:31:40.506 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: bruno.feest@yahoo.com
+19:31:40.557 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: sva3d8afaomoe
+19:31:40.609 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: sva3d8afaomoe
+19:31:40.657 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 12-05-1969
+19:31:40.717 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+19:31:40.772 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: lemuel.skiles
+Электронная почта: bruno.feest@yahoo.com
+Дата рождения: 1969-05-12
+Уровень языка: beginner
+19:31:40.786 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: lemuel.skiles
+Электронная почта: bruno.feest@yahoo.com
+Дата рождения: 1969-05-12
+Уровень языка: beginner
+19:31:40.797 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: lemuel.skiles
+Электронная почта: bruno.feest@yahoo.com
+Дата рождения: 1969-05-12
+Уровень языка: beginner
+19:31:40.808 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: lemuel.skiles
+Электронная почта: bruno.feest@yahoo.com
+Дата рождения: 1969-05-12
+Уровень языка: beginner
+19:32:54.732 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: jarod.keeling
+19:32:54.742 [main] INFO  FormFillingTest - Сгенерированный email: frank.ernser@gmail.com
+19:32:54.742 [main] INFO  FormFillingTest - Сгенерированный пароль: 4i0exk6w
+19:32:54.817 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: jarod.keeling
+19:32:54.875 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: frank.ernser@gmail.com
+19:32:54.921 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 4i0exk6w
+19:32:54.969 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 4i0exk6w
+19:32:55.015 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 10-10-1967
+19:32:55.070 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+19:40:07.924 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: carola.johnston
+19:40:07.930 [main] INFO  FormFillingTest - Сгенерированный email: jacqulyn.ward@hotmail.com
+19:40:07.931 [main] INFO  FormFillingTest - Сгенерированный пароль: pwtriczg
+19:40:08.014 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: carola.johnston
+19:40:08.070 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: jacqulyn.ward@hotmail.com
+19:40:08.119 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: pwtriczg
+19:40:08.170 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: pwtriczg
+19:40:08.218 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 30-08-1967
+19:40:08.277 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+19:40:08.335 [main] INFO  FormFillingTest - Значения в полях корректно заполненыИмя пользователя: carola.johnston
+Электронная почта: jacqulyn.ward@hotmail.com
+Дата рождения: 1967-08-30
+Уровень языка: beginner
+19:40:08.349 [main] INFO  FormFillingTest - Значения в полях корректно заполненыИмя пользователя: carola.johnston
+Электронная почта: jacqulyn.ward@hotmail.com
+Дата рождения: 1967-08-30
+Уровень языка: beginner
+19:40:08.359 [main] INFO  FormFillingTest - Значения в полях корректно заполненыИмя пользователя: carola.johnston
+Электронная почта: jacqulyn.ward@hotmail.com
+Дата рождения: 1967-08-30
+Уровень языка: beginner
+19:40:08.369 [main] INFO  FormFillingTest - Значения в полях корректно заполненыИмя пользователя: carola.johnston
+Электронная почта: jacqulyn.ward@hotmail.com
+Дата рождения: 1967-08-30
+Уровень языка: beginner
+19:40:46.952 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: luetta.parisian
+19:40:46.960 [main] INFO  FormFillingTest - Сгенерированный email: marshall.steuber@hotmail.com
+19:40:46.960 [main] INFO  FormFillingTest - Сгенерированный пароль: j6nwj70qlmw
+19:40:47.038 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: luetta.parisian
+19:40:47.098 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: marshall.steuber@hotmail.com
+19:40:47.146 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: j6nwj70qlmw
+19:40:47.194 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: j6nwj70qlmw
+19:40:47.240 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 25-09-1993
+19:40:47.298 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+19:40:47.349 [main] INFO  FormFillingTest - Значения в полях корректно заполнены: Имя пользователя: luetta.parisian
+Электронная почта: marshall.steuber@hotmail.com
+Дата рождения: 1993-09-25
+Уровень языка: beginner
+19:40:47.359 [main] INFO  FormFillingTest - Значения в полях корректно заполнены: Имя пользователя: luetta.parisian
+Электронная почта: marshall.steuber@hotmail.com
+Дата рождения: 1993-09-25
+Уровень языка: beginner
+19:40:47.369 [main] INFO  FormFillingTest - Значения в полях корректно заполнены: Имя пользователя: luetta.parisian
+Электронная почта: marshall.steuber@hotmail.com
+Дата рождения: 1993-09-25
+Уровень языка: beginner
+19:40:47.379 [main] INFO  FormFillingTest - Значения в полях корректно заполнены: Имя пользователя: luetta.parisian
+Электронная почта: marshall.steuber@hotmail.com
+Дата рождения: 1993-09-25
+Уровень языка: beginner
+19:41:35.308 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: allan.rodriguez
+19:41:35.317 [main] INFO  FormFillingTest - Сгенерированный email: riva.friesen@gmail.com
+19:41:35.317 [main] INFO  FormFillingTest - Сгенерированный пароль: dwxj7x593s
+19:41:35.398 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: allan.rodriguez
+19:41:35.452 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: riva.friesen@gmail.com
+19:41:35.502 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: dwxj7x593s
+19:41:35.552 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: dwxj7x593s
+19:41:35.598 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 15-08-1977
+19:41:35.654 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+19:41:35.706 [main] INFO  FormFillingTest - Значения в полях корректно заполнены: [[ChromeDriver: chrome on windows (084a9b14e0b1919f97fe7307269ebbb8)] -> id: output]
+19:41:35.717 [main] INFO  FormFillingTest - Значения в полях корректно заполнены: [[ChromeDriver: chrome on windows (084a9b14e0b1919f97fe7307269ebbb8)] -> id: output]
+19:41:35.727 [main] INFO  FormFillingTest - Значения в полях корректно заполнены: [[ChromeDriver: chrome on windows (084a9b14e0b1919f97fe7307269ebbb8)] -> id: output]
+19:41:35.737 [main] INFO  FormFillingTest - Значения в полях корректно заполнены: [[ChromeDriver: chrome on windows (084a9b14e0b1919f97fe7307269ebbb8)] -> id: output]
+19:44:37.709 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: oralee.kohler
+19:44:37.719 [main] INFO  FormFillingTest - Сгенерированный email: gerry.goodwin@hotmail.com
+19:44:37.719 [main] INFO  FormFillingTest - Сгенерированный пароль: k5la6a1ie
+19:44:37.795 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: oralee.kohler
+19:44:37.855 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: gerry.goodwin@hotmail.com
+19:44:37.903 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: k5la6a1ie
+19:44:37.952 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: k5la6a1ie
+19:44:38.000 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 25-11-1972
+19:44:38.061 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+19:44:38.112 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: oralee.kohler
+Электронная почта: gerry.goodwin@hotmail.com
+Дата рождения: 1972-11-25
+Уровень языка: beginner
+19:44:38.114 [main] INFO  FormFillingTest - Значения в полях 'Имя пользователя' корректно заполнены: oralee.kohler
+19:44:38.125 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: oralee.kohler
+Электронная почта: gerry.goodwin@hotmail.com
+Дата рождения: 1972-11-25
+Уровень языка: beginner
+19:44:38.125 [main] INFO  FormFillingTest - Значения в полях 'Электронная почта' корректно заполнены: gerry.goodwin@hotmail.com
+19:44:38.136 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: oralee.kohler
+Электронная почта: gerry.goodwin@hotmail.com
+Дата рождения: 1972-11-25
+Уровень языка: beginner
+19:44:38.136 [main] INFO  FormFillingTest - Значения в полях 'Дата рождения' корректно заполнены: 1972-11-25
+19:44:38.145 [main] INFO  FormFillingTest - Полученный текст из элемента вывода: Имя пользователя: oralee.kohler
+Электронная почта: gerry.goodwin@hotmail.com
+Дата рождения: 1972-11-25
+Уровень языка: beginner
+19:44:38.146 [main] INFO  FormFillingTest - Значения в полях 'Уровень языка' корректно заполнены: beginner
+19:50:29.556 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: reed.dooley
+19:50:29.566 [main] INFO  FormFillingTest - Сгенерированный email: eugene.kulas@gmail.com
+19:50:29.566 [main] INFO  FormFillingTest - Сгенерированный пароль: tsyc8pv4
+19:50:29.650 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: reed.dooley
+19:50:29.706 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: eugene.kulas@gmail.com
+19:50:29.754 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: tsyc8pv4
+19:50:29.803 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: tsyc8pv4
+19:50:29.850 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 28-02-1975
+19:50:29.906 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+19:50:29.939 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+19:50:29.989 [main] INFO  FormFillingTest - Данные отображаются корректно 
+19:52:03.930 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: davina.douglas
+19:52:03.940 [main] INFO  FormFillingTest - Сгенерированный email: mara.kuphal@gmail.com
+19:52:03.940 [main] INFO  FormFillingTest - Сгенерированный пароль: sfmvbg2uy9ulgv
+19:52:04.019 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: davina.douglas
+19:52:04.075 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: mara.kuphal@gmail.com
+19:52:04.125 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: sfmvbg2uy9ulgv
+19:52:04.175 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: sfmvbg2uy9ulgv
+19:52:04.221 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 28-11-1997
+19:52:04.279 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+19:52:04.312 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+19:52:04.331 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'davina.douglas', фактическое: 'davina.douglas'
+19:52:04.343 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'mara.kuphal@gmail.com', фактическое: 'mara.kuphal@gmail.com'
+19:52:04.354 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '1997-11-28', фактическое: '1997-11-28'
+19:52:04.364 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+19:52:04.364 [main] INFO  FormFillingTest - Данные отображаются корректно 
+19:57:43.811 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: dee.barton
+19:57:43.820 [main] INFO  FormFillingTest - Сгенерированный email: jess.pfannerstill@gmail.com
+19:57:43.820 [main] INFO  FormFillingTest - Сгенерированный пароль: 84z24273pa3cfv
+19:57:43.894 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: dee.barton
+19:57:43.953 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: jess.pfannerstill@gmail.com
+19:57:44.005 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 84z24273pa3cfv
+19:57:44.057 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 84z24273pa3cfv
+19:57:44.105 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 28-01-2000
+19:57:44.161 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+19:57:44.197 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+19:57:44.215 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'dee.barton', фактическое: 'dee.barton'
+19:57:44.229 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'jess.pfannerstill@gmail.com', фактическое: 'jess.pfannerstill@gmail.com'
+19:57:44.239 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '2000-01-28', фактическое: '2000-01-28'
+19:57:44.250 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+19:57:44.250 [main] INFO  FormFillingTest - Данные отображаются корректно 
+20:02:43.561 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: daphine.fisher
+20:02:43.570 [main] INFO  FormFillingTest - Сгенерированный email: jude.thompson@hotmail.com
+20:02:43.571 [main] INFO  FormFillingTest - Сгенерированный пароль: hjpnkacc8g
+20:02:43.656 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: daphine.fisher
+20:02:43.715 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: jude.thompson@hotmail.com
+20:02:43.767 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: hjpnkacc8g
+20:02:43.820 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: hjpnkacc8g
+20:02:43.866 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 14-12-1996
+20:02:43.922 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+20:02:43.957 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:02:43.975 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'daphine.fisher', фактическое: 'daphine.fisher'
+20:02:43.988 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'jude.thompson@hotmail.com', фактическое: 'jude.thompson@hotmail.com'
+20:02:43.998 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '1996-12-14', фактическое: '1996-12-14'
+20:02:44.008 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+20:02:44.008 [main] INFO  FormFillingTest - Данные отображаются корректно 
+20:05:04.036 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: otha.feest
+20:05:04.043 [main] INFO  FormFillingTest - Сгенерированный email: clifton.larkin@gmail.com
+20:05:04.043 [main] INFO  FormFillingTest - Сгенерированный пароль: kg7ldepa
+20:05:04.126 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: otha.feest
+20:05:04.185 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: clifton.larkin@gmail.com
+20:05:04.233 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: kg7ldepa
+20:05:04.280 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: kg7ldepa
+20:05:04.326 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 07-12-1986
+20:05:04.385 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+20:05:04.419 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:05:04.439 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'otha.feest', фактическое: 'otha.feest'
+20:05:04.454 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'clifton.larkin@gmail.com', фактическое: 'clifton.larkin@gmail.com'
+20:05:04.465 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '1986-12-07', фактическое: '1986-12-07'
+20:05:04.475 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+20:05:04.476 [main] INFO  FormFillingTest - Данные отображаются корректно 
+20:06:08.101 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: erik.paucek
+20:06:08.108 [main] INFO  FormFillingTest - Сгенерированный email: benedict.johnson@yahoo.com
+20:06:08.109 [main] INFO  FormFillingTest - Сгенерированный пароль: o6zvxuzzhhkrqsk
+20:06:08.203 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: erik.paucek
+20:06:08.261 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: benedict.johnson@yahoo.com
+20:06:08.313 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: o6zvxuzzhhkrqsk
+20:06:08.365 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: o6zvxuzzhhkrqsk
+20:06:08.414 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 18-03-2001
+20:06:08.472 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+20:06:08.507 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:06:08.526 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'erik.paucek', фактическое: 'erik.paucek'
+20:06:08.538 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'benedict.johnson@yahoo.com', фактическое: 'benedict.johnson@yahoo.com'
+20:06:08.549 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '2001-03-18', фактическое: '2001-03-18'
+20:06:08.558 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+20:06:08.559 [main] INFO  FormFillingTest - Данные отображаются корректно 
+20:56:20.488 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+20:56:20.514 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\IgorBelov\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+20:56:21.496 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: andres.ritchie
+20:56:21.496 [main] INFO  FormFillingTest - Сгенерированный email: quiana.lindgren@hotmail.com
+20:56:21.497 [main] INFO  FormFillingTest - Сгенерированный пароль: 02qbaq3va
+20:56:21.580 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: andres.ritchie
+20:56:21.648 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: quiana.lindgren@hotmail.com
+20:56:21.697 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 02qbaq3va
+20:56:21.745 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 02qbaq3va
+20:56:21.791 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 11-03-1970
+20:56:21.847 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+20:56:21.880 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:56:21.897 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'andres.ritchie', фактическое: 'andres.ritchie'
+20:56:21.909 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'quiana.lindgren@hotmail.com', фактическое: 'quiana.lindgren@hotmail.com'
+20:56:21.919 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '1970-03-11', фактическое: '1970-03-11'
+20:56:21.929 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+20:56:21.929 [main] INFO  FormFillingTest - Данные отображаются корректно 
+20:57:00.356 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+20:57:00.379 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\IgorBelov\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+20:57:01.330 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: brant.mayer
+20:57:01.330 [main] INFO  FormFillingTest - Сгенерированный email: willis.roberts@yahoo.com
+20:57:01.331 [main] INFO  FormFillingTest - Сгенерированный пароль: 51k31ioa
+20:57:01.414 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: brant.mayer
+20:57:01.479 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: willis.roberts@yahoo.com
+20:57:01.526 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: 51k31ioa
+20:57:01.574 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: 51k31ioa
+20:57:01.621 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 25-02-1973
+20:57:01.680 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+20:57:01.714 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:57:01.733 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'brant.mayer', фактическое: 'brant.mayer'
+20:57:01.745 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'willis.roberts@yahoo.com', фактическое: 'willis.roberts@yahoo.com'
+20:57:01.755 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '1973-02-25', фактическое: '1973-02-25'
+20:57:01.764 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+20:57:01.764 [main] INFO  FormFillingTest - Данные отображаются корректно 
+20:57:48.284 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+20:57:48.307 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\IgorBelov\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+20:57:49.268 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: beth.hauck
+20:57:49.269 [main] INFO  FormFillingTest - Сгенерированный email: matilda.ryan@gmail.com
+20:57:49.269 [main] INFO  FormFillingTest - Сгенерированный пароль: e5xhfli7f8hq0
+20:57:49.347 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: beth.hauck
+20:57:49.402 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: matilda.ryan@gmail.com
+20:57:49.451 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: e5xhfli7f8hq0
+20:57:49.500 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: e5xhfli7f8hq0
+20:57:49.545 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 22-05-1990
+20:57:49.601 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+20:57:49.633 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:57:49.649 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'beth.hauck', фактическое: 'beth.hauck'
+20:57:49.663 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'matilda.ryan@gmail.com', фактическое: 'matilda.ryan@gmail.com'
+20:57:49.674 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '1990-05-22', фактическое: '1990-05-22'
+20:57:49.683 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+20:57:49.684 [main] INFO  FormFillingTest - Данные отображаются корректно 
+20:58:31.085 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+20:58:31.108 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\IgorBelov\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+20:58:32.169 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: elwood.parker
+20:58:32.170 [main] INFO  FormFillingTest - Сгенерированный email: toney.connelly@gmail.com
+20:58:32.170 [main] INFO  FormFillingTest - Сгенерированный пароль: g43aahm7vn
+20:58:32.251 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: elwood.parker
+20:58:32.309 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: toney.connelly@gmail.com
+20:58:32.358 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: g43aahm7vn
+20:58:32.407 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: g43aahm7vn
+20:58:32.453 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 11-08-1988
+20:58:32.510 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+20:58:32.543 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:58:32.560 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'elwood.parker', фактическое: 'elwood.parker'
+20:58:32.573 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'toney.connelly@gmail.com', фактическое: 'toney.connelly@gmail.com'
+20:58:32.583 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '1988-08-11', фактическое: '1988-08-11'
+20:58:32.593 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+20:58:32.593 [main] INFO  FormFillingTest - Данные отображаются корректно 
+20:59:17.273 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+20:59:17.297 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\IgorBelov\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+20:59:18.191 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: chas.hettinger
+20:59:18.191 [main] INFO  FormFillingTest - Сгенерированный email: eldon.cole@hotmail.com
+20:59:18.191 [main] INFO  FormFillingTest - Сгенерированный пароль: s387jung
+20:59:18.274 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: chas.hettinger
+20:59:18.332 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: eldon.cole@hotmail.com
+20:59:18.380 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: s387jung
+20:59:18.428 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: s387jung
+20:59:18.474 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 10-06-1983
+20:59:18.530 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+20:59:18.563 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+20:59:18.579 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'chas.hettinger', фактическое: 'chas.hettinger'
+20:59:18.592 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'eldon.cole@hotmail.com', фактическое: 'eldon.cole@hotmail.com'
+20:59:18.602 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '1983-06-10', фактическое: '1983-06-10'
+20:59:18.612 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+20:59:18.612 [main] INFO  FormFillingTest - Данные отображаются корректно 
+21:01:10.762 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+21:01:10.785 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\IgorBelov\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+21:01:11.741 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: granville.pollich
+21:01:11.742 [main] INFO  FormFillingTest - Сгенерированный email: luanna.christiansen@hotmail.com
+21:01:11.742 [main] INFO  FormFillingTest - Сгенерированный пароль: ehmn8b1tz
+21:01:11.824 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: granville.pollich
+21:01:11.886 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: luanna.christiansen@hotmail.com
+21:01:11.934 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: ehmn8b1tz
+21:01:11.982 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: ehmn8b1tz
+21:01:12.028 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 28-10-1985
+21:01:12.086 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+21:01:12.118 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:01:12.135 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'granville.pollich', фактическое: 'granville.pollich'
+21:01:12.148 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'luanna.christiansen@hotmail.com', фактическое: 'luanna.christiansen@hotmail.com'
+21:01:12.158 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '1985-10-28', фактическое: '1985-10-28'
+21:01:12.168 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+21:01:12.168 [main] INFO  FormFillingTest - Данные отображаются корректно 
+21:04:15.334 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 129.0.6668.100 (resolved driver for Chrome 129)
+21:04:15.357 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\IgorBelov\.cache\selenium\chromedriver\win64\129.0.6668.100\chromedriver.exe
+21:04:16.264 [main] INFO  FormFillingTest - Сгенерировано имя пользователя: leroy.miller
+21:04:16.264 [main] INFO  FormFillingTest - Сгенерированный email: tonja.corkery@yahoo.com
+21:04:16.264 [main] INFO  FormFillingTest - Сгенерированный пароль: xmekhaby
+21:04:16.350 [main] INFO  FormFillingTest - Поле 'username' заполнено значением: leroy.miller
+21:04:16.408 [main] INFO  FormFillingTest - Поле 'email' заполнено значением: tonja.corkery@yahoo.com
+21:04:16.459 [main] INFO  FormFillingTest - Поле 'password' заполнено значением: xmekhaby
+21:04:16.509 [main] INFO  FormFillingTest - Поле 'confirm_password' заполнено значением: xmekhaby
+21:04:16.558 [main] INFO  FormFillingTest - Поле 'birthdate' заполнено значением: 28-11-1967
+21:04:16.618 [main] INFO  FormFillingTest - Пароль и подтверждение пароля совпадают.
+21:04:16.653 [main] INFO  FormFillingTest - Кнопка 'Зарегистрироваться' нажата.
+21:04:16.673 [main] INFO  FormFillingTest - Проверка значения для поля 'Имя пользователя'. Ожидаемое: 'leroy.miller', фактическое: 'leroy.miller'
+21:04:16.686 [main] INFO  FormFillingTest - Проверка значения для поля 'Электронная почта'. Ожидаемое: 'tonja.corkery@yahoo.com', фактическое: 'tonja.corkery@yahoo.com'
+21:04:16.697 [main] INFO  FormFillingTest - Проверка значения для поля 'Дата рождения'. Ожидаемое: '1967-11-28', фактическое: '1967-11-28'
+21:04:16.707 [main] INFO  FormFillingTest - Проверка значения для поля 'Уровень языка'. Ожидаемое: 'beginner', фактическое: 'beginner'
+21:04:16.707 [main] INFO  FormFillingTest - Данные отображаются корректно 

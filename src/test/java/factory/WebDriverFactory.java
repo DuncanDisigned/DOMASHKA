@@ -1,7 +1,6 @@
 package factory;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import io.github.bonigarcia.wdm.managers.OperaDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -15,6 +14,7 @@ public class WebDriverFactory {
 
     public WebDriver getDriver(String browserType) {
         WebDriver driver;
+
         switch (browserType.toLowerCase()) {
             case "chrome":
                 ChromeOptions chromeOptions = new ChromeOptions();
@@ -27,7 +27,7 @@ public class WebDriverFactory {
                 WebDriverManager.firefoxdriver().setup();
                 driver = new FirefoxDriver();
                 break;
-            case "opera":
+            case "safari":
                 SafariOptions safariOptions = new SafariOptions();
                 WebDriverManager.safaridriver().setup();
                 driver = new SafariDriver();

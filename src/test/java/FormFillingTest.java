@@ -20,20 +20,23 @@ import java.util.Date;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class FormFillingTest {
-    private static final Faker faker = new Faker();
-    private final Logger logger = LogManager.getLogger(FormFillingTest.class);
-    private final String baseUrl = System.getProperty("baseUrl");
+    private final Faker faker = new Faker();
+    private  Logger logger = LogManager.getLogger(FormFillingTest.class);
+    private  String baseUrl = System.getProperty("baseUrl");
     private final String pathDz = ".home.kartushin.su/form.html";
     private WebDriver driver;
     private final WebDriverFactory webDriverFactory = new WebDriverFactory();
     private WebDriverWait wait;
 
+
+
     @BeforeEach
     public void setUp() {
-        String browserType = System.getProperty("browser", "chrome"); // Теперь по умолчанию chrome
+        String browserType = System.getProperty("browserType", "chrome"); // Теперь по умолчанию chrome
         driver = webDriverFactory.getDriver(browserType); // Передаем browserType
         wait = new WebDriverWait(driver, Duration.ofSeconds(10));
     }
+
 
     @AfterEach
     public void tearDown() {
@@ -42,19 +45,17 @@ public class FormFillingTest {
         }
     }
 
+
     @Test
     public void testFormFilling() {
+        baseUrl = baseUrl.endsWith("/") ? baseUrl.substring(0, baseUrl.length() -1): baseUrl;
         driver.get(baseUrl + pathDz);
+        String username = System.getProperty("username");
+        String password = System.getProperty("password");
 
-        // Генерация данных
-        String usernameValue = faker.name().username();
         String emailValue = faker.internet().emailAddress();
-        String passwordValue = faker.internet().password();
-        String confirmPasswordValue = passwordValue;
-
-        logger.info("Сгенерировано имя пользователя: {}", usernameValue);
+        String confirmPasswordValue = password;
         logger.info("Сгенерированный email: {}", emailValue);
-        logger.info("Сгенерированный пароль: {}", passwordValue);
 
         // Генерация даты рождения
         Date birthdate = faker.date().birthday();
@@ -62,9 +63,9 @@ public class FormFillingTest {
         String expectedBirthdateValue = new SimpleDateFormat("yyyy-MM-dd").format(birthdate); // Ожидаемый формат для проверки
 
         // Заполнение формы
-        fillField(FormField.USERNAME, usernameValue);
+        fillField(FormField.USERNAME, username);
         fillField(FormField.EMAIL, emailValue);
-        fillField(FormField.PASSWORD, passwordValue);
+        fillField(FormField.PASSWORD, password);
         fillField(FormField.CONFIRM_PASSWORD, confirmPasswordValue);
         fillField(FormField.BIRTHDATE, inputBirthdateValue);
 
@@ -73,7 +74,7 @@ public class FormFillingTest {
         languageSelect.selectByVisibleText("Начальный"); // Выбор языка
         String expectedLanguageLevel = "beginner"; // Ожидаемое значение
 
-        if (passwordValue.equals(confirmPasswordValue)) {
+        if (password.equals(confirmPasswordValue)) {
             logger.info("Пароль и подтверждение пароля совпадают.");
         } else {
             logger.warn("Пароль и подтверждение пароля не совпадают!");
@@ -81,13 +82,10 @@ public class FormFillingTest {
 
         // Нажимаем кнопку отправки
         driver.findElement(By.cssSelector("input[type='submit'][value='Зарегистрироваться']")).click();
-
-        // Ожидание загрузки следующей страницы или элемента
-
         logger.info("Кнопка 'Зарегистрироваться' нажата.");
-        // Проверка выводимых данных
 
-        checkResultField(ResultField.USERNAME, usernameValue);
+        // Проверка выводимых данных
+        checkResultField(ResultField.USERNAME, username);
         checkResultField(ResultField.EMAIL, emailValue);
         checkResultField(ResultField.BIRTHDATE, expectedBirthdateValue);
         checkResultField(ResultField.LANGUAGE_LEVEL, expectedLanguageLevel);

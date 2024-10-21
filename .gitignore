@@ -9,8 +9,7 @@
 *.iml
 out
 # Логи
-*.log
-.logs
+logs/
 
 
 /tmp
